@@ -1,0 +1,43 @@
+{
+  "policy": {
+    "flatOld": 600,
+    "tierA": 650,
+    "tierB": 500,
+    "bookingDays": 14,
+    "bookingDaysOld": 3,
+    "economyUnderHours": 6,
+    "directorAboveNights": 5,
+    "settleWorkingDays": 10,
+    "settleDaysOld": 30,
+    "emergencyLogWorkingDays": 2,
+    "articles": 12,
+    "effective": "1 يناير 2027"
+  },
+  "departments": 8,
+  "steps": 10,
+  "frontier": {
+    "q3_cost": 548000,
+    "q3_trips": 116,
+    "q2_cost": 458000,
+    "change_pct": 19.7,
+    "cost_per_trip": 4724,
+    "top_department": "المحطات الميدانية",
+    "top_share_pct": 55,
+    "nights": 396,
+    "nights_a": 165,
+    "nights_a_share_pct": 41.7,
+    "highest_per_trip_department": "المحطات الميدانية",
+    "highest_per_trip": 5200,
+    "per_diem_old": 237600,
+    "per_diem_new": 222750,
+    "per_diem_change": -14850,
+    "per_diem_change_pct": -6.2,
+    "planted": {
+      "change_pct_wrong_base": 16.4,
+      "cost_per_trip_mean_of_means": 4274,
+      "forecast_cost_transposed": 63100,
+      "per_diem_all_tier_b": 198000,
+      "per_diem_all_tier_b_change_pct": -16.7
+    }
+  }
+}
