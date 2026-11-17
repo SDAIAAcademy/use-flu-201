@@ -5,7 +5,7 @@ Working with AI Assistants: Delegate, Describe, Judge, Own
 
 مسار الطلاقة في البيانات والذكاء الاصطناعي · أكاديمية سدايا · USE-FLU-201 · المستوى 200
 
-REPLACE: سطر واحد تحت العنوان: ما يستطيع المشارك فعله بعد المقرر
+تقرر ما تفوّضه للمساعد وما تحتفظ به، وتصف ما تريده بمعاييره، وتتحقق من المخرج المصقول قبل أن يحمل اسمك، وتفصح عمّا فعله المساعد
 
 ورشة عمل ليوم واحد عن العادات التي تفصل بين المساعدة المفيدة من الذكاء الاصطناعي والأخطاء المصقولة. يقسّم المشاركون مهمة واقعية إلى خطوات ويقررون ما يفوّضونه منها، ويجرّبون المساعد على نوع جديد من المهام بمقارنته بإجابة معروفة قبل الاعتماد عليه، ويصفون الأهداف والسياق والجمهور ومعايير النجاح، ويكررون التحسين على عدة جولات، ويختبرون المخرجات التي تبدو مكتملة بحثًا عن حقائق مختلقة وسياق ناقص وموافقة متملقة. ويتدربون على تقرير متى لا يُستخدم الذكاء الاصطناعي، ويكتبون ملاحظة إفصاح، ويطبقون في مهمة متابعة متعقَّبة بطاقة التفويض على إحدى مهامهم المتكررة مرتين. ويأتي السياق الدائم والمساعدات المخصصة في المقرر USE-FLU-202.
 
@@ -30,7 +30,7 @@ REPLACE: سطر واحد تحت العنوان: ما يستطيع المشارك
 
 | الوحدة | العنوان | الجلسات | الشرائح |
 |---|---|---|---|
-| اليوم 1 | REPLACE: موضوع هذه الوحدة في كلمات قليلة | REPLACE: عنوان الجلسة 1; REPLACE: عنوان الجلسة 2; REPLACE: عنوان الجلسة 3; REPLACE: عنوان الجلسة 4; REPLACE: عنوان الجلسة 5; REPLACE: عنوان الجلسة 6 | [`slides/day1.html`](slides/day1.html) |
+| اليوم 1 | أربع عادات: فوِّض وصِف واحكم وتحمَّل | التفويض: ما الذي تسلّمه للمساعد؟; الحد المتعرج: اختبر قبل أن تفوّض; الوصف: السياق والمعايير; التكرار: التحسين على جولات; الحكم: التحقق من المخرج المصقول; المسؤولية: القرار والإفصاح | [`slides/day1.html`](slides/day1.html) |
 <!-- /academy:units -->
 
 ## دراسة الحالة
@@ -44,12 +44,12 @@ REPLACE: سطر واحد تحت العنوان: ما يستطيع المشارك
 
 | | الجلسة | المختبر | الملف |
 |---|---|---|---|
-| 1.1 | اليوم 1 · الجلسة 1 | REPLACE: ما يبنيه المشاركون في المختبر 1.1 | [`D1_1.html`](labs/D1_1.html) |
-| 1.2 | اليوم 1 · الجلسة 2 | REPLACE: ما يبنيه المشاركون في المختبر 1.2 | [`D1_2.html`](labs/D1_2.html) |
-| 1.3 | اليوم 1 · الجلسة 3 | REPLACE: ما يبنيه المشاركون في المختبر 1.3 | [`D1_3.html`](labs/D1_3.html) |
-| 1.4 | اليوم 1 · الجلسة 4 | REPLACE: ما يبنيه المشاركون في المختبر 1.4 | [`D1_4.html`](labs/D1_4.html) |
-| 1.5 | اليوم 1 · الجلسة 5 | REPLACE: ما يبنيه المشاركون في المختبر 1.5 | [`D1_5.html`](labs/D1_5.html) |
-| 1.6 | اليوم 1 · الجلسة 6 | REPLACE: ما يبنيه المشاركون في المختبر 1.6 | [`D1_6.html`](labs/D1_6.html) |
+| 1.1 | اليوم 1 · الجلسة 1 | بطاقة تفويض لمهمة الإحاطة | [`D1_1_delegation_card.html`](labs/D1_1_delegation_card.html) |
+| 1.2 | اليوم 1 · الجلسة 2 | اختبار الحد: ملخص يغلب عليه الحساب | [`D1_2_frontier_check.html`](labs/D1_2_frontier_check.html) |
+| 1.3 | اليوم 1 · الجلسة 3 | سلّم الوصف | [`D1_3_description_ladder.html`](labs/D1_3_description_ladder.html) |
+| 1.4 | اليوم 1 · الجلسة 4 | ثلاث جولات | [`D1_4_three_turns.html`](labs/D1_4_three_turns.html) |
+| 1.5 | اليوم 1 · الجلسة 5 | تمرين المخرجات المصقولة | [`D1_5_polished_outputs.html`](labs/D1_5_polished_outputs.html) |
+| 1.6 | اليوم 1 · الجلسة 6 | قرِّر وتحمَّل | [`D1_6_decide_and_own.html`](labs/D1_6_decide_and_own.html) |
 <!-- /academy:labs -->
 
 ## المتطلبات السابقة
@@ -71,7 +71,21 @@ REPLACE: سطر واحد تحت العنوان: ما يستطيع المشارك
 <!-- academy:sources -->
 ## المصادر
 
-- REPLACE: كل مصدر يستشهد به المقرر مع عنوانه، في course.json ضمن "sources"؛ هذه القائمة تُكتب من هناك
+### المرجعيات الوطنية
+
+- [سدايا: مبادئ الذكاء الاصطناعي التوليدي للجهات الحكومية](https://sdaia.gov.sa/ar/SDAIA/about/Files/GenAIGuidelinesForGovernmentARCompressed.pdf)
+- [سدايا: مبادئ الذكاء الاصطناعي التوليدي للعموم](https://sdaia.gov.sa/ar/SDAIA/about/Files/GenerativeAIPublicAR.pdf)
+- [سدايا: مبادئ أخلاقيات الذكاء الاصطناعي](https://sdaia.gov.sa/ar/SDAIA/about/Documents/ai-principles.pdf)
+- [مكتب إدارة البيانات الوطنية: سياسة تصنيف البيانات](https://sdaia.gov.sa/ar/SDAIA/about/Documents/DataClassificationPolicyAr.pdf)
+- [سدايا: صفحة الأنظمة والسياسات](https://sdaia.gov.sa/ar/SDAIA/about/Pages/RegulationsAndPolicies.aspx)
+
+### دراسات عن العمل مع المساعدات
+
+- [Anthropic: The AI Fluency Index (February 2026)](https://academy.claude.com/tutorials/the-ai-fluency-index)
+- [Dell’Acqua et al.: Navigating the Jagged Technological Frontier (Harvard Business School)](https://www.hbs.edu/faculty/Pages/item.aspx?num=64700)
+- [BetterUp Labs and Stanford Social Media Lab: The hidden costs of workslop](https://www.betterup.com/blog/hidden-costs-workslop)
+- [Sharma et al.: Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
+- [Anthropic Economic Index: economic primitives (January 2026)](https://www.anthropic.com/research/economic-index-primitives)
 <!-- /academy:sources -->
 
 ### المرجعيات الوطنية
