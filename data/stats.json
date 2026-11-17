@@ -1,0 +1,538 @@
+{
+  "v": 1,
+  "engine": "1.0.0",
+  "build": {
+    "at": "2026-11-17T12:48:23Z",
+    "version": "2027.1.0",
+    "commit": "6794bce"
+  },
+  "lang": "ar",
+  "dir": "rtl",
+  "totals": {
+    "decks": 1,
+    "slides": 67,
+    "words": 4555,
+    "notes": 59,
+    "notes_ratio": 0.88,
+    "activities": 6,
+    "styles": 3,
+    "slide_minutes": null,
+    "components": {
+      "cards": 38,
+      "pills": 0,
+      "callouts": 32,
+      "tables": 13,
+      "code": 0,
+      "tokens": 0,
+      "flows": 5,
+      "stats": 7,
+      "bars": 1,
+      "meters": 0,
+      "agendas": 1,
+      "quizzes": 6,
+      "checklists": 6,
+      "prompts": 2,
+      "chats": 5,
+      "tools": 0,
+      "traces": 0,
+      "ladders": 0,
+      "figures": 0,
+      "matrices": 0,
+      "timers": 0,
+      "columns": 28,
+      "images": 0,
+      "drawings": 0,
+      "fragments": 7
+    },
+    "minutes": 300
+  },
+  "decks": [
+    {
+      "deck": "day1",
+      "kind": "day",
+      "label": "اليوم 1",
+      "title": "أربع عادات: فوِّض وصِف واحكم وتحمَّل",
+      "slides": 67,
+      "words": 4555,
+      "notes": 59,
+      "notes_ratio": 0.88,
+      "activities": 6,
+      "styles": 3,
+      "slide_minutes": null,
+      "components": {
+        "cards": 38,
+        "pills": 0,
+        "callouts": 32,
+        "tables": 13,
+        "code": 0,
+        "tokens": 0,
+        "flows": 5,
+        "stats": 7,
+        "bars": 1,
+        "meters": 0,
+        "agendas": 1,
+        "quizzes": 6,
+        "checklists": 6,
+        "prompts": 2,
+        "chats": 5,
+        "tools": 0,
+        "traces": 0,
+        "ladders": 0,
+        "figures": 0,
+        "matrices": 0,
+        "timers": 0,
+        "columns": 28,
+        "images": 0,
+        "drawings": 0,
+        "fragments": 7
+      },
+      "minutes": 300,
+      "sessions": [
+        {
+          "n": 1,
+          "label": "الجلسة 1",
+          "title": "التفويض: ما الذي تسلّمه للمساعد؟",
+          "slides": 9,
+          "words": 633,
+          "notes": 8,
+          "notes_ratio": 0.89,
+          "activities": 1,
+          "styles": 0,
+          "slide_minutes": null,
+          "components": {
+            "cards": 7,
+            "pills": 0,
+            "callouts": 5,
+            "tables": 2,
+            "code": 0,
+            "tokens": 0,
+            "flows": 1,
+            "stats": 0,
+            "bars": 0,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 1,
+            "checklists": 1,
+            "prompts": 0,
+            "chats": 0,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 4,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 50,
+          "lab_minutes": 25
+        },
+        {
+          "n": 2,
+          "label": "الجلسة 2",
+          "title": "الحد المتعرج: اختبر قبل أن تفوّض",
+          "slides": 9,
+          "words": 612,
+          "notes": 8,
+          "notes_ratio": 0.89,
+          "activities": 1,
+          "styles": 0,
+          "slide_minutes": null,
+          "components": {
+            "cards": 4,
+            "pills": 0,
+            "callouts": 6,
+            "tables": 2,
+            "code": 0,
+            "tokens": 0,
+            "flows": 1,
+            "stats": 3,
+            "bars": 0,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 1,
+            "checklists": 1,
+            "prompts": 0,
+            "chats": 0,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 4,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 7
+          },
+          "minutes": 50,
+          "lab_minutes": 25
+        },
+        {
+          "n": 3,
+          "label": "الجلسة 3",
+          "title": "الوصف: السياق والمعايير",
+          "slides": 9,
+          "words": 615,
+          "notes": 8,
+          "notes_ratio": 0.89,
+          "activities": 1,
+          "styles": 3,
+          "slide_minutes": null,
+          "components": {
+            "cards": 2,
+            "pills": 0,
+            "callouts": 3,
+            "tables": 1,
+            "code": 0,
+            "tokens": 0,
+            "flows": 0,
+            "stats": 0,
+            "bars": 1,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 1,
+            "checklists": 1,
+            "prompts": 1,
+            "chats": 2,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 3,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 50,
+          "lab_minutes": 25
+        },
+        {
+          "n": 4,
+          "label": "الجلسة 4",
+          "title": "التكرار: التحسين على جولات",
+          "slides": 9,
+          "words": 628,
+          "notes": 8,
+          "notes_ratio": 0.89,
+          "activities": 1,
+          "styles": 0,
+          "slide_minutes": null,
+          "components": {
+            "cards": 4,
+            "pills": 0,
+            "callouts": 3,
+            "tables": 1,
+            "code": 0,
+            "tokens": 0,
+            "flows": 1,
+            "stats": 1,
+            "bars": 0,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 1,
+            "checklists": 1,
+            "prompts": 1,
+            "chats": 1,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 4,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 50,
+          "lab_minutes": 25
+        },
+        {
+          "n": 5,
+          "label": "الجلسة 5",
+          "title": "الحكم: التحقق من المخرج المصقول",
+          "slides": 10,
+          "words": 684,
+          "notes": 9,
+          "notes_ratio": 0.9,
+          "activities": 1,
+          "styles": 0,
+          "slide_minutes": null,
+          "components": {
+            "cards": 8,
+            "pills": 0,
+            "callouts": 5,
+            "tables": 3,
+            "code": 0,
+            "tokens": 0,
+            "flows": 0,
+            "stats": 0,
+            "bars": 0,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 1,
+            "checklists": 1,
+            "prompts": 0,
+            "chats": 2,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 4,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 50,
+          "lab_minutes": 25
+        },
+        {
+          "n": 6,
+          "label": "الجلسة 6",
+          "title": "المسؤولية: القرار والإفصاح",
+          "slides": 15,
+          "words": 991,
+          "notes": 13,
+          "notes_ratio": 0.87,
+          "activities": 1,
+          "styles": 0,
+          "slide_minutes": null,
+          "components": {
+            "cards": 10,
+            "pills": 0,
+            "callouts": 7,
+            "tables": 2,
+            "code": 0,
+            "tokens": 0,
+            "flows": 1,
+            "stats": 3,
+            "bars": 0,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 1,
+            "checklists": 1,
+            "prompts": 0,
+            "chats": 0,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 8,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 50,
+          "lab_minutes": 25
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "id": "LO1",
+      "text": "يحلل مهمة عمل إلى خطوات ويسند كلًّا منها إلى الشخص أو المساعد أو إليهما معًا، أو لا يسندها إلى أي منهما، مع سبب مبني على المخاطر والمهارة والمساءلة، استنادًا إلى مهمة اصطناعية لإعداد إحاطة عن تغيير في سياسة",
+      "level": "Applied",
+      "slides": [
+        "day1#four-habits",
+        "day1#three-ways-to-work",
+        "day1#task-is-steps",
+        "day1#three-questions",
+        "day1#four-answers",
+        "day1#tasks-to-keep",
+        "day1#confidential-high-impact",
+        "day1#check-delegation",
+        "day1#follow-up-task",
+        "day1#shared-card-library",
+        "day1#wrap-up"
+      ],
+      "activities": [
+        "day1#check-delegation-q1"
+      ],
+      "sessions": [
+        "day1/1"
+      ],
+      "labs": [
+        "1.1"
+      ],
+      "questions": [
+        "q-lo1-step-not-task",
+        "q-lo1-nobody",
+        "q-lo1-reason"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO2",
+      "text": "يعدّ طلبًا يزوّد المساعد بالهدف والسياق والجمهور والقيود ومعايير النجاح ومثال، ويحسّنه على ثلاث جولات على الأقل، استنادًا إلى المهمة نفسها بثلاثة مستويات من السياق",
+      "level": "Applied",
+      "slides": [
+        "day1#four-habits",
+        "day1#what-we-assume",
+        "day1#one-line-request",
+        "day1#six-parts-of-request",
+        "day1#criteria-before-output",
+        "day1#examples-counter-examples",
+        "day1#questions-first",
+        "day1#source-not-memory",
+        "day1#check-description",
+        "day1#first-answer-is-draft",
+        "day1#critique-then-revise",
+        "day1#alternatives-and-reasoning",
+        "day1#structured-output",
+        "day1#when-to-start-again",
+        "day1#fresh-start-request",
+        "day1#check-iteration"
+      ],
+      "activities": [
+        "day1#check-description-q1",
+        "day1#check-iteration-q1"
+      ],
+      "sessions": [
+        "day1/3",
+        "day1/4"
+      ],
+      "labs": [
+        "1.3",
+        "1.4"
+      ],
+      "questions": [
+        "q-lo2-missing-part",
+        "q-lo2-criteria-first",
+        "q-lo2-next-turn",
+        "q-lo2-start-again"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO3",
+      "text": "يختبر المساعد على نوع من المهام جديد على المشارك، بمقارنة مخرجه بإجابة معروف صحتها قبل أن يقرر تفويض تلك المهمة، استنادًا إلى ملخص يغلب عليه الحساب وإجابة مرجعية محلولة",
+      "level": "Applied",
+      "slides": [
+        "day1#jagged-frontier",
+        "day1#easy-for-you",
+        "day1#test-with-known-answer",
+        "day1#three-kinds-of-difference",
+        "day1#mean-of-means",
+        "day1#delegate-limit-keep",
+        "day1#check-frontier",
+        "day1#follow-up-task",
+        "day1#wrap-up"
+      ],
+      "activities": [
+        "day1#check-frontier-q1"
+      ],
+      "sessions": [
+        "day1/2"
+      ],
+      "labs": [
+        "1.2"
+      ],
+      "questions": [
+        "q-lo3-known-answer",
+        "q-lo3-total-only",
+        "q-lo3-decision"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO4",
+      "text": "يختبر مخرجًا مصقولًا للذكاء الاصطناعي بحثًا عن الحقائق المختلقة والسياق الناقص والاستدلال المعيب والموافقة على مقدمة خاطئة، استنادًا إلى خمسة مخرجات تبدو مكتملة فيها أخطاء مزروعة عمدًا",
+      "level": "Applied",
+      "slides": [
+        "day1#four-habits",
+        "day1#polished-gets-checked-less",
+        "day1#four-fault-kinds",
+        "day1#invented-facts-citations",
+        "day1#missing-context",
+        "day1#faulty-reasoning",
+        "day1#agreement-wrong-premise",
+        "day1#name-your-source",
+        "day1#check-polished",
+        "day1#wrap-up"
+      ],
+      "activities": [
+        "day1#check-polished-q1"
+      ],
+      "sessions": [
+        "day1/5"
+      ],
+      "labs": [
+        "1.5"
+      ],
+      "questions": [
+        "q-lo4-invented-citation",
+        "q-lo4-missing-qualifier",
+        "q-lo4-wrong-premise"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO5",
+      "text": "يقرر هل يستخدم مساعدة الذكاء الاصطناعي في مهمة أو يقيّدها أو يرفضها، ويدافع عن قراره، ومن ذلك الحالات التي ينبغي ألا يُستخدم فيها الذكاء الاصطناعي، في ثلاثة سيناريوهات حدّية: تقييم أداء موظف، وخطاب قانوني رسمي، وترجمة معدّة للنشر",
+      "level": "Performance",
+      "slides": [
+        "day1#tasks-to-keep",
+        "day1#confidential-high-impact",
+        "day1#accountability-stays",
+        "day1#use-limit-refuse",
+        "day1#when-not-to-use",
+        "day1#workslop",
+        "day1#approved-tools",
+        "day1#check-own"
+      ],
+      "activities": [
+        "day1#check-own-q1"
+      ],
+      "sessions": [
+        "day1/6"
+      ],
+      "labs": [
+        "1.6"
+      ],
+      "questions": [
+        "q-lo5-appraisal",
+        "q-lo5-translation",
+        "q-lo5-objection"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO6",
+      "text": "يصوغ ملاحظة إفصاح تبيّن ما أنجزه المساعد وما تحقق منه المشارك ومن يتحمل المساءلة، استنادًا إلى المخرج النهائي للمشارك من المختبرات",
+      "level": "Applied",
+      "slides": [
+        "day1#four-habits",
+        "day1#what-we-assume",
+        "day1#accountability-stays",
+        "day1#workslop",
+        "day1#disclosure-note",
+        "day1#check-own",
+        "day1#follow-up-task",
+        "day1#wrap-up"
+      ],
+      "activities": [],
+      "sessions": [
+        "day1/6"
+      ],
+      "labs": [
+        "1.6"
+      ],
+      "questions": [
+        "q-lo6-three-points",
+        "q-lo6-best-note",
+        "q-lo6-pass-on"
+      ],
+      "covered": true
+    }
+  ]
+}
